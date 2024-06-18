@@ -1,2 +1,3 @@
 # CODIGOS_TESIS_19389
  
+En este repositorio se encuentra la versión final de los códigos que hacen posible la interfaz del proyecto titulado " Implementación de un control de movimiento para dispositivos robóticos móviles utilizando identificación de gestos faciales y orientación de cabeza por medio de visión de computadora". Es importante recordar, que este fue trabajado con PyCharm Community Edition, por lo que si se trabaja desde otro ordenador, se requerirá instalar las librerías solicitadas en cada código. Además, se debe configurar para funcionar como un controlador externo para Webots, si se desea utilizar esta función. Además, este repositorio cuenta con los archivos multimedia necesarios para dicho funcionamiento. 
